@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthdayDB</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_person">Add birthday</string>
+    <string name="delete_person">Delete birthday: are you sure?</string>
+</resources>
